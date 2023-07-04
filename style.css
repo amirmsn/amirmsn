@@ -1,13 +1,63 @@
-.summary {font-family: Helvetica;}
 
-h4 {font-family: Helvetica; font-weight: bold; font-size: larger;}
 
-li {font-family: Helvetica;}
+h4 {
+    font-family: Helvetica; 
+    font-weight: bold; 
+    font-size: larger;
+}
 
-td {font-family: Helvetica;}
+li {
+    font-family: Helvetica;
+}
 
-.heading {background-color: grey;}
+td {
+    font-family: Helvetica;
+}
 
-body{background-color: antiquewhite;}
+.heading {
+    background-color: grey;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.my_image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: antiquewhite;
+    z-index: 999;
+    padding-right: 100%;
+    padding-bottom: 10px;
+}
+
+.my_name {
+    position: fixed;
+    top: 0;
+    left: 7rem;
+    background-color: antiquewhite;
+    z-index: 999;
+    padding-right: 100%;
+    padding-bottom: 15px;
+}
+
+.my_contact_points {
+    position: fixed;
+    left: 25rem;
+    background-color: antiquewhite;
+    z-index: 999;
+    padding-bottom: 50px;
+}
+
+.summary {
+    font-family: Helvetica;
+    position: fixed;
+    top: 8rem;
+    background-color: antiquewhite;
+    z-index: 999;
+    border-bottom: 2px solid sienna;
+}
+
 
 
