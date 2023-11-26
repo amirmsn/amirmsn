@@ -1,5 +1,5 @@
 👋 Hello there! 
-I'm Amir, a passionate mechanical engineer with a knack for coding. My journey in the world of programming began with languages like Python, PHP, JavaScript, and VB .NET, complementing my expertise in mechanical engineering.
+I'm <a href="https://github.com/amirmsn">Amir</a>, a passionate mechanical engineer with a knack for coding. My journey in the world of programming began with languages like Python, PHP, JavaScript, and VB .NET, complementing my expertise in mechanical engineering.
 
 💡 My coding adventure often involves tackling mechanical engineering challenges through automation. I enjoy formulating problems using Python and turning concepts into efficient and elegant solutions. Whether it's optimizing processes, simulating systems, or diving into data analysis, I find joy in the intersection of mechanics and code.
 
